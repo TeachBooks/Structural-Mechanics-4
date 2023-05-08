@@ -1,2 +1,5 @@
 format: jb-book
 root: intro
+chapters:
+- file: distributed_forces_test
+- file: truss_structure_test
