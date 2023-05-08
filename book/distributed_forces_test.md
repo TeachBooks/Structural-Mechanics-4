@@ -10,7 +10,7 @@ An example of a constant distributed load with unknown value $q$ is shown in the
 
 
 ## Relation with other subjects
-<iframe allow="fullscreen" style="width: 100%!important; height: 500px;" src="https://prime-applets.ewi.tudelft.nl/graph/CTB1110-17/Bridging?lecture=6&view=lecture" allowfullscreen></iframe>
+<iframe allow="fullscreen" style="width: 100%!important; height: 500px;" src="https://prime-applets.ewi.tudelft.nl/graph/CTB1110-17/Bridging?lecture=undefined&view=domains" allowfullscreen></iframe>
 
 ## Additional reading
 ### Lecture slides
