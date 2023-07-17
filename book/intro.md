@@ -1,3 +1,3 @@
-# Home
+# Home 
 
-This is a Jupyter Book template for the interactive textbooks project of CiTG.
+This is a Jupyter Book containing all the mechanics content for the bridging program of civil engineering.
