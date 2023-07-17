@@ -1,9 +1,10 @@
+```{index} Truss structures
+```
 # Truss structures
 
 ```{contents}
 ```
-```{index} Truss structures
-```
+
 Truss structures are structures assembled of straight elements connected in nodes. These elements partly create triangles, which are of importance for its deformability. Of course, the structures you'll design shouldn't deform, so it's crucial to understand this topic.
 
 ## Examples truss structures
