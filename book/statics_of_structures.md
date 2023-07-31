@@ -13,7 +13,7 @@ Complete list:
     - Relation between load and internal forces
     - Relation between load, internal forces and shape cable structures
 - [You can calculate support reactions and internal forces in statically determinant structures for skeletal- and cable structures using equilibrium equations](./Statics_of_structures/LO3.md)
-    - Resolution of forces
+    - [Composition and resolution of forces](./Statics_of_structures/LO3/Resolution_of_forces.md)
     - Statics of a particle
     - Statics of a rigid body
     - Free body diagram of structure

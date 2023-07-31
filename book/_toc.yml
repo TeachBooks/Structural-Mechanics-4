@@ -7,6 +7,7 @@ chapters:
   - file: Statics_of_structures/LO2
   - file: Statics_of_structures/LO3
     sections :
+    - file: Statics_of_structures/LO3/Resolution_of_forces
     - file: Statics_of_structures/LO3/truss_structure_test
     - file: Statics_of_structures/LO3/distributed_forces_test
   - file: Statics_of_structures/LO4
