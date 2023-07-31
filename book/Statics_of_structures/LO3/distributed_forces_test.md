@@ -4,6 +4,7 @@
 # Distributed load
 
 ```{contents}
+:local:
 ```
 
 Distributed loads are loads which are defined per unit length / area / volume. In planar systems, only line loads exist, generally specified with the symbol $q(x)$ with the unit $\text{kN/m}$. $q(x)$ can be any function, although linear functions are most apparent.
@@ -53,9 +54,9 @@ y_R = {{\int\ y {\kern 1pt} {p\left( x, y \right)dA} } \over {q\left( x, y \righ
 ## Example video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hIN3Qme7GVE?start=140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Practise material
+## Practice material
 - If you're a TU Delft student, you can practise using the [Dutch exercises on ANS](https://ans.app/digital_test/assignments/770738/results/new). Every time you open this link you get a new exercise.
-- Additional exercises are available in chapter 6.6 of the book Engineering Mechanics Volume 1 in chapter 6 {cite}`Hartsuijker2006`.
+- Additional exercises are available in chapter 6.6 of the book Engineering Mechanics Volume 1 in chapter 6 {cite:p}`Hartsuijker2006`.
 
 ## Relation with other subjects
 <iframe allow="fullscreen" style="width: 100%!important; height: 500px;" src="https://prime-applets.ewi.tudelft.nl/graph/CTB1110-17/show2?lecture=7&view=lecture" allowfullscreen></iframe>
