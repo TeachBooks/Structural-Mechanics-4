@@ -8,7 +8,7 @@ chapters:
   - file: Statics_of_structures/LO3
     sections :
     - file: Statics_of_structures/LO3/Resolution_of_forces
-    - file: Statics_of_structures/LO3/FBD_structure
+    - file: Statics_of_structures/LO3/FBD
     - file : Statics_of_structures/LO3/Statics_of_a_particle
     - file: Statics_of_structures/LO3/Statics_of_a_rigid_body
     - file: Statics_of_structures/LO3/truss_structure_test

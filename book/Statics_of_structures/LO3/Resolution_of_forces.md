@@ -59,12 +59,12 @@ Planar force vs 3-dimensional force
 % ### Composition of forces graphically
 % Read chapter 2.1.2 of the book Engineering Mechanics Volume 1 {cite:p}%`Hartsuijker2006`.
 %
-```{index} resolution of forces; analytically
+```{index} Resolution of forces; analytically
 ```
 ### Resolution of forces analytically
 Read chapter 2.1.3 for planar forces and 2.2.1 for forces in 3-dimensional space of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} resolution of forces; graphically
+```{index} Resolution of forces; graphically
 ```
 ### Resolution of forces graphically
 Read chapter 2.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

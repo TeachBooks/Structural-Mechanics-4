@@ -10,20 +10,14 @@ Temporary list of all subjects to add:
 - Resolution of forces
 - Statics of a particle
 - Statics of a rigid body
-- Free body diagram of structure
-- Support reactions of rigid structure
-- Free body diagram of hinged part of structure
-- Support reactions of hinged structure
+- Free body diagram 
+- Support reactions
 - Distributed forces
 - Statics of 3D structure
-- Free body diagram of cut through truss element
 - Zero force member
-- Internal forces truss structure
-- Internal forces and support reactions "hang en springwerken"
-- Free body diagram of cut through beam element
 - Internal forces
 - Internal force distribution
-- Support reactions, internal forces and shape cable
+- Shape of cables
 
 Check your understanding of this learning objective by making the following exercises:
 ...

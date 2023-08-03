@@ -9,27 +9,27 @@ This subject allows you to solve forces and moments acting on a rigid body.
 
 ## Theory
 
-```{index} moment; of a couple
+```{index} Moment; of a couple
 ```
 ### Moment of a couple
 Read chapter 3.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} moment; about a point
+```{index} Moment; about a point
 ```
 ### Moment of a force about a point
 Read chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} statics; of a planar rigid body
+```{index} Statics; of a planar rigid body
 ```
 ### Equilibrium of a planar rigid body
 Read chapter 3.2.1 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} moment; about a line
+```{index} Moment; about a line
 ```
 ### Moment of a force about a line
 Read chapter 3.3.2 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} statics; of a 3-dimensional rigid body
+```{index} Statics; of a 3-dimensional rigid body
 ```
 ### Equilibrium of a 3-dimensional rigid body
 Read chapter 3.3.3 and 3.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.

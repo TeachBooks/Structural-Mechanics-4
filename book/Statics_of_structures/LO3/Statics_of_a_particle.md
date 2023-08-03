@@ -1,4 +1,4 @@
-```{index} statics ; of a particle
+```{index} Statics ; of a particle
 ```
 # Statics of a particle
 
@@ -9,7 +9,6 @@
 This subject allows you to solve forces acting on a particle.
 
 ## Theory
-
 Read chapter 2.3 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ## Practice material
