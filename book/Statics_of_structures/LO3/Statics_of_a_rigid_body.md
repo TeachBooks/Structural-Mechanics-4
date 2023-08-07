@@ -9,15 +9,16 @@ This subject allows you to solve forces and moments acting on a rigid body.
 
 ## Theory
 
+```{index} Moment; about a point
+```
+### Moment of a force about a point
+Read chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
+
 ```{index} Moment; of a couple
 ```
 ### Moment of a couple
 Read chapter 3.1.4 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
-```{index} Moment; about a point
-```
-### Moment of a force about a point
-Read chapter 3.1.5 of the book Engineering Mechanics Volume 1 {cite:p}`Hartsuijker2006`.
 
 ```{index} Statics; of a planar rigid body
 ```
