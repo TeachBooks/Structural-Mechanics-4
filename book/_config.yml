@@ -15,7 +15,7 @@ html:
 
 # Execute notebooks when building
 execute:
-  execute_notebooks: auto
+  execute_notebooks: 'off'
 
 sphinx:
   config:

@@ -1,3 +1,3 @@
 # Home 
 
-This is a Jupyter Book containing all the mechanics content for the bridging program of civil engineering.
+This is a Jupyter Book containing various mechanics content for civil engineering.
