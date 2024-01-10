@@ -1,3 +1,3 @@
-# Slender structures
+# Base Structural Engineering
 
-This chapter includes some additional material for slender structures
+This chapter includes some additional material for CIEM5000 Base: Structural Engineering
