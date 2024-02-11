@@ -20,6 +20,8 @@ sphinx:
   config:
     bibtex_reference_style: author_year
     html_show_copyright: false
+    use_thebe_lite: true
+    exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
 
 bibtex_bibfiles:
   - references.bib
