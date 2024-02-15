@@ -16,6 +16,9 @@ html:
 execute:
   execute_notebooks: 'off'
 
+launch_buttons:
+  thebe: true
+
 sphinx:
   config:
     bibtex_reference_style: author_year
