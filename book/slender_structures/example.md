@@ -67,12 +67,13 @@ Note that to calculate $M_{t,4}$ the element load should be taken into account!
 This gives:
 
 $$M_1 \approx 0.1 \text{ kNm} \\
-M_{t,4} \approx 33 \text{ kNm} \\
+M_{t,4} \approx -0.033 \text{ kNm} \\
 M_{t,5} \approx -2.7 \text{ kNm}$$
 
 ## Postprocessing moments element $\left(1\right)$
 
 The continuum displacement field of element $\left(1\right)$ can be described by the shape function:
+
 $$w\left(x\right) = \left( -\cfrac{x^3}{\ell^2} + \cfrac{x^2}{\ell} \right) \varphi_2 $$
 
 This gives:
