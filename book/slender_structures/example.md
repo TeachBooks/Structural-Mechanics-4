@@ -78,7 +78,7 @@ $$w\left(x\right) = \left( -\cfrac{x^3}{\ell^2} + \cfrac{x^2}{\ell} \right) \var
 This gives:
 
 $$\varphi \left(x\right) = -\cfrac{\text{d} w\left(x\right)}{\text{d}x}=\left( \cfrac{3x^2}{\ell^2} - \cfrac{2x}{\ell} \right) \varphi_2 \\
-\\kappa \left(x\right) = \cfrac{\text{d} \varphi\left(x\right)}{\text{d}x}=\left( \cfrac{6x}{\ell^2} - \cfrac{2}{\ell} \right) \varphi_2 \\
+\kappa \left(x\right) = \cfrac{\text{d} \varphi\left(x\right)}{\text{d}x}=\left( \cfrac{6x}{\ell^2} - \cfrac{2}{\ell} \right) \varphi_2 \\
 M \left(x\right) = EI \kappa=EI\left( \cfrac{6x}{\ell^2} - \cfrac{2}{\ell} \right) \varphi_2 \\$$
 
 This is a linear distribution, with values at $x=0$ and $x=\ell$:
