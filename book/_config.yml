@@ -28,6 +28,10 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+  extra_extensions:
+    - sphinx.ext.imgconverter
+    - download_link_replacer
+    - jupyterbook_patches
 
 
 bibtex_bibfiles:
