@@ -7,5 +7,5 @@ chapters:
 - file: slender_structures
   sections:
   - file: slender_structures/EB_ODE.ipynb
-  - file: slender_structures/EB_K.ipynb
   - file: slender_structures/EB_K_Feq.ipynb
+  - file: slender_structures/example
