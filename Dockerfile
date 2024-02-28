@@ -1,4 +1,4 @@
-FROM continuumio/miniconda3
+FROM python:3.11-bullseye
 WORKDIR /book
 COPY book/ .
 RUN apt-get update && apt-get -y install git gcc
