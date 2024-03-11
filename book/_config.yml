@@ -5,7 +5,6 @@ email: T.R.vanWoudenberg@tudelft.nl
 logo: images/TUDelft_logo_rgb.png
 
 repository:
-  url: https://gitlab.tudelft.nl/interactivetextbooks-citg/mechanics
   branch: publish
   path_to_book: book
 
@@ -26,7 +25,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "hello!"
+      repository_url: "https://gitlab.tudelft.nl/interactivetextbooks-citg/mechanics"
       use_repository_button: true
       use_issues_button : true
       use_edit_page_button : true
