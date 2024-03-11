@@ -6,7 +6,7 @@ logo: images/TUDelft_logo_rgb.png
 
 repository:
   url: https://gitlab.tudelft.nl/interactivetextbooks-citg/mechanics
-  branch: main
+  branch: publish
   path_to_book: book
 
 html:
@@ -15,9 +15,6 @@ html:
 # Execute notebooks when building
 execute:
   execute_notebooks: 'off'
-
-launch_buttons:
-  thebe: true
 
 sphinx:
   config:
@@ -28,6 +25,14 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+    html_theme_options:
+      repository_url: "hello!"
+      use_repository_button: true
+      use_issues_button : true
+      use_edit_page_button : true
+      launch_buttons:
+          thebe: true
+
   extra_extensions:
     - sphinx.ext.imgconverter
     - download_link_replacer
