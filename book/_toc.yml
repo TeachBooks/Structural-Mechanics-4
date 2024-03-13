@@ -4,7 +4,7 @@ chapters:
 - file: structural_mechanics_4
   sections:
   - file: advanced_structural_mechanics/unsymmetrical_bending.ipynb
-  - file: advanced_structural_mechanics/plasticity
+  - file: advanced_structural_mechanics/plasticity.ipynb
 - file: slender_structures
   sections:
   - file: slender_structures/EB_ODE.ipynb
