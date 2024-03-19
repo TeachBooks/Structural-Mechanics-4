@@ -8,6 +8,8 @@ chapters:
   - file: advanced_structural_mechanics/plasticity2.ipynb
   - file: advanced_structural_mechanics/plasticity3.ipynb
   - file: advanced_structural_mechanics/Example_3_lecture_1_plasticity.ipynb
+  - file: advanced_structural_mechanics/shape_factor.ipynb
+  - file: advanced_structural_mechanics/plastic_hinge.ipynb
 - file: slender_structures
   sections:
   - file: slender_structures/EB_ODE.ipynb
