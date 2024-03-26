@@ -24,6 +24,12 @@ chapters:
       - file: advanced_structural_mechanics/influence_line_book/Interactive_influence_line_simple_Av.ipynb
       - file: advanced_structural_mechanics/influence_line_book/Interactive_influence_line_simple_M.ipynb
       - file: advanced_structural_mechanics/influence_line_book/Interactive_influence_line_simple_V.ipynb
+    - file: advanced_structural_mechanics/influence_line_3sup/overview.md
+      sections:
+      - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_Av.ipynb
+      - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_M.ipynb
+      - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_V.ipynb
+      - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_envelope.ipynb
   - file: advanced_structural_mechanics/plasticity_overview.md
     sections:
     - file: advanced_structural_mechanics/plasticity1.ipynb
