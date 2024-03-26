@@ -9,6 +9,7 @@ chapters:
   - file: advanced_structural_mechanics/work_and_energy_overview.md
     sections:
     - file: advanced_structural_mechanics/Interactive_V.ipynb
+    - file: advanced_structural_mechanics/Example_lecture_6_potential_energy_varying_EA.ipynb
   - file: advanced_structural_mechanics/influence_lines_overview.md
     sections:
     - file: advanced_structural_mechanics/influence_line_simple/overview.md
@@ -29,6 +30,7 @@ chapters:
       - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_Av.ipynb
       - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_M.ipynb
       - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_V.ipynb
+      - file: advanced_structural_mechanics/influence_line_3sup/Demo_class.ipynb
       - file: advanced_structural_mechanics/influence_line_3sup/Interactive_influence_line_envelope.ipynb
   - file: advanced_structural_mechanics/plasticity_overview.md
     sections:
