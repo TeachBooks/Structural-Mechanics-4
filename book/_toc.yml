@@ -20,6 +20,12 @@ chapters:
       - file: advanced_structural_mechanics/influence_line_simple/Interactive_influence_line_simple_V.ipynb
       - file: advanced_structural_mechanics/influence_line_simple/Interactive_influence_line_simple_w.ipynb
       - file: advanced_structural_mechanics/influence_line_simple/Interactive_influence_line_simple_phi.ipynb
+    - file: advanced_structural_mechanics/influence_line_cantilever/overview.md
+      sections:
+      - file: advanced_structural_mechanics/influence_line_cantilever/Interactive_influence_line_simple_M.ipynb
+      - file: advanced_structural_mechanics/influence_line_cantilever/Interactive_influence_line_simple_V.ipynb
+      - file: advanced_structural_mechanics/influence_line_cantilever/Interactive_influence_line_simple_w.ipynb
+      - file: advanced_structural_mechanics/influence_line_cantilever/Interactive_influence_line_simple_phi.ipynb
     - file: advanced_structural_mechanics/influence_line_book/overview.md
       sections:
       - file: advanced_structural_mechanics/influence_line_book/Interactive_influence_line_simple_Av.ipynb
