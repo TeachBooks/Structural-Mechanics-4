@@ -2,7 +2,7 @@
 
 This is the `2023`-version of the book. Go to [/Structural-Mechanics-4](https://teachbooks.github.io/Structural-Mechanics-4) to view the most recent version of this book, or adapt the year in [/Structural-Mechanics-4/2023](https://teachbooks.github.io/Structural-Mechanics-4/2023) to the year when you took the course.
 
-This is a Jupyter Book containing various mechanics content for civil engineering.
+This book shows the interactive content for the TU Delft course CTB3330 Structural Mechanics 4.
 
 This book includes Python interactivity: Click {fa}`rocket` --> {guilabel}`Live Code` on the top right corner of interactive page to start up a python-kernel in your browser! Any interactions you do here are not stored. You can also download the page as a notebook to apply the content on your own computer.
 
