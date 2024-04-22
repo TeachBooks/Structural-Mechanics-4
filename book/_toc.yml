@@ -1,7 +1,7 @@
 format: jb-book
 root: intro
 chapters:
-- intro_copy
+- file: intro_copy
 - file: advanced_structural_mechanics/inhomogeneous_overview.md
   sections:
   - file: advanced_structural_mechanics/unsymmetrical_bending.ipynb
