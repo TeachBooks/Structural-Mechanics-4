@@ -1,3 +1,3 @@
-# Mechanics book
+# Structural Mechanics 4 book
 
-This folder includes all the contents for the mechanics book, which include online content supporting mechanics courses.
+This book includes all the contents for the Structural Mechanics 4 book, which include online content for the TU Delft course Structural Mechanics 4.
