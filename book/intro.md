@@ -1,6 +1,6 @@
 # How to use this book
 
-This is the `2023`-version of the book. Go to [/Structural-Mechanics-4](https://teachbooks.github.io/Structural-Mechanics-4) to view the most recent version of this book, or adapt the year to the year when you took the course.
+This is the `2023`-version of the book. Go to [/Structural-Mechanics-4](https://teachbooks.github.io/Structural-Mechanics-4) to view the most recent version of this book, or adapt the year in [/Structural-Mechanics-4/2023](https://teachbooks.github.io/Structural-Mechanics-4/2023) to the year when you took the course.
 
 This is a Jupyter Book containing various mechanics content for civil engineering.
 
