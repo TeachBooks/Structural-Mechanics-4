@@ -2,14 +2,16 @@
 title: Mechanics at Civil Engineering
 author:  Tom van Woudenberg
 email: T.R.vanWoudenberg@tudelft.nl
-logo: images/TUDelft_logo_rgb.png
+logo: images/logo.png
 
 repository:
   branch: publish
   path_to_book: book
 
 html:
-  extra_footer: <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" width="88px">
+  favicon : "images/favicon.ico"
+  baseurl :  "https://teachbooks.github.io/Structural-Mechanics-4/"
+  home_page_in_navbar       : true
 
 # Execute notebooks when building
 execute:
