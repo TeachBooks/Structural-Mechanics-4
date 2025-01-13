@@ -30,6 +30,7 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/Structural-Mechanics-4"
       use_repository_button: true
       use_issues_button : true
+      announcement : "This book has been moved to: <a href='https://oit.tudelft.nl/CTB3330' style='color:white'>https://oit.tudelft.nl/CTB3330</a>."
       launch_buttons:
           thebe: true
 
